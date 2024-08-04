@@ -1,11 +1,11 @@
 {
-  "name": "Anak Tekno",
-  "short_name": "Anaktekno",
-  "start_url": "https://www.anaktekno.com/",
+  "name": "Nada Toraja",
+  "short_name": "Nadatoraja",
+  "start_url": "https://www.nadatoraja.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Anaktekno.com adalah blog yang membahas tutorial teknologi terbaru yang meliputi Android, Smartphone, Telkomsel, XL, Smartfren, Axis, Tri, PC, Windows, Microsoft Word, Excel, Powerpoint, Media Sosial, dan lain sebagainya.",
+  "description": "Nadatoraja.com adalah website yang menyediakan kumpulan lirik lagu Toraja, lagu rohani Toraja, dan chord gitar lagu Toraja.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s48/Anak%2BTekno%2BLogo.png",
     "sizes": "48x48",
