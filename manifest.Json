@@ -1,37 +1,38 @@
 {
-  "name": "Nada Toraja",
-  "short_name": "Nadatoraja",
-  "start_url": "https://www.nadatoraja.com/",
+  "name": "Tarif Internet",
+  "short_name": "Tarifinternet",
+  "start_url": "https://www.tarifinterent.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Nadatoraja.com adalah website yang menyediakan kumpulan lirik lagu Toraja, lagu rohani Toraja, dan chord gitar lagu Toraja.",
+  "description": "Harga paket internet Telkomsel, XL, Axis, Smartfren, Tri 3, Indosat, Harga Pulsa Telkomsel, Paket Nelpon Telkomsel.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s48/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s48/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s72/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s72/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s96/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s96/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s144/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s144/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s168/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s168/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s192/Anak%2BTekno%2BLogo.png",
+    "src": "
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s192/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-1wOgIGX4NLM/YSiXFvzgnpI/AAAAAAAALvA/yRyPNZFen8EOUhr3OWcgf_GvBMRqPnregCLcBGAsYHQ/s512/Anak%2BTekno%2BLogo.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-qVtyG0aRIITxSoor0S7480vpAF-2yPvQeUTrIe0D8N7Wildy44-_V8AUzArDpgFL1qlQSS1u3_Rk0Sqs1ihqZ_T_3GOFLzIX1wC5FSfji-46RuwPzMNKRyghfpjn6PUlKmIfjx1BOJspLSwTfanXiFVOV4HfF3Hbsk_cO5STCpuLHnyNQNJ3U2m1Y8/s512/harga%20pulsa%20axis%20di%20indomaret.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
